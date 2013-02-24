@@ -1,4 +1,4 @@
-var username = 'shonen.a';
+var username = 'sgm';
 
 function notifyError(message) {
     notify('error', message);
